@@ -1,16 +1,18 @@
 body {
-  
-    
-    min-height: 2300px;  
-    
+
+
+    min-height: 2300px;
+
 }
 
 
 /*font-family: 'Josefin Sans', sans-serif;*/
 
+.wow { visibility: hidden;
+}
 
-.top-menu-bar{
-    
+.top-menu-bar {
+
     width:100%;
     height:6rem;
     top:0;
@@ -21,7 +23,7 @@ body {
 }
 
 #menu-location {
-    
+
     position: fixed;
     z-index: 10000;
     top:1.5rem;
@@ -33,12 +35,12 @@ body {
 /*    box-shadow: 2px 2px 2px #d2d2d2;*/
     text-align: center;
 /*    background-color: #ffffff;*/
-    
-    
+
+
 }
 
 #logo-location a h5 {
-    
+
     position: fixed;
     z-index: 10000;
     top:-30px;
@@ -51,44 +53,44 @@ body {
     padding-left: 1rem;
     padding-top:10px;
     padding-right: 1rem;
-    
-    
+
+
 }
 
 
 #full-display{
-    
+
     width: 100%;
     height: inherit;
     margin-top: 6rem;
     margin-bottom: auto;
     font: none;
-    
-   
+
+
 }
 
 
 
 .front-pres {
-    
-    
+
+
     height:30rem;
-    
-    
+
+
 }
 
 .front-pres-1 {
     background-image: url(../img/Jaxready-iPhone-multi-appsview.png);
     background-size: cover;
-    
-   
-    
+
+
+
 }
 
 
 
 .square-title {
-  
+
     color:white;
     margin-top: 9rem;
     margin-bottom: auto;
@@ -99,12 +101,12 @@ body {
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     position: absolute;
-    
-    
+
+
 }
 
 .square-title:hover {
-  
+
     color:white;
     margin-top: 9rem;
     margin-bottom: auto;
@@ -112,100 +114,100 @@ body {
     display: block;
     display: inline-block;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    
-    
+
+
 }
 
 
 
 .front-pres-2 {
-    
+
     background-image: url(../img/Welcome--Mock-Hi-Fi004.jpg);
     background-size: cover;
-    
-    
-    
-    
+
+
+
+
 }
 
 .front-pres-3 {
-    
+
      background-image: url(../img/harn_paint_hands-16.jpg);
      background-size: cover;
      height: 30rem;
-    
-    
-    
-    
-    
+
+
+
+
+
 }
 
 .front-pres-4 {
-     
+
     background-image: url(../img/new-perspective-macbookair-ipad.jpeg);
     background-size: cover;
     height: 30rem;
-    
-    
-    
-    
-    
+
+
+
+
+
 }
 
 
 .front-pres-5 {
-     
+
     background-image: url(../img/MWE-FL-BLUE-Perspective-3.jpg);
     background-size: cover;
-    
-    
-    
-    
+
+
+
+
 }
 
 .front-pres-6 {
-     
+
     background-image: url(../img/Providers-flat-Final.jpg);
     background-size: cover;
-    
-       
-    
-    
+
+
+
+
 }
 
 .front-pres-7 {
-     
+
     background-image: url(../img/Allison.jpg);
     background-size: cover;
-    
-       
-    
-    
+
+
+
+
 }
 
 .front-pres-8 {
-     
+
     background-image: url(../img/PPstatic1.squarespace.jpg);
     background-size: cover;
-    
-    
+
+
 }
 
 .front-pres-9 {
-     
+
     background-image: url(../img/flower.jpg);
     background-size: cover;
-      
-    
+
+
 }
 .front-pres-10 {
-     
+
     background-image: url(../img/video-thumbnail.png);
     background-size: cover;
-    
-       
-    
-    
+
+
+
+
 }
 
 
@@ -306,4 +308,3 @@ body {
   color: inherit;
   background-color: inherit;
 }
-
