@@ -1,6 +1,4 @@
 body {
-
-
     min-height: 2300px;
 
 }
@@ -151,9 +149,6 @@ body {
     height: 30rem;
 
 
-
-
-
 }
 
 
@@ -161,9 +156,6 @@ body {
 
     background-image: url(../img/MWE-FL-BLUE-Perspective-3.jpg);
     background-size: cover;
-
-
-
 
 }
 
@@ -173,17 +165,12 @@ body {
     background-size: cover;
 
 
-
-
 }
 
 .front-pres-7 {
 
     background-image: url(../img/Allison.jpg);
     background-size: cover;
-
-
-
 
 }
 
@@ -192,7 +179,6 @@ body {
     background-image: url(../img/PPstatic1.squarespace.jpg);
     background-size: cover;
 
-
 }
 
 .front-pres-9 {
@@ -200,15 +186,11 @@ body {
     background-image: url(../img/flower.jpg);
     background-size: cover;
 
-
 }
 .front-pres-10 {
 
     background-image: url(../img/video-thumbnail.png);
     background-size: cover;
-
-
-
 
 }
 
@@ -309,4 +291,43 @@ body {
 .sticky-social-bar .social-icon:hover > a {
   color: inherit;
   background-color: inherit;
+}
+
+.footer-style {
+    height: inherit;
+    background-color: #333333;
+    width: 100%;
+
+}
+
+.footer-link-style {
+
+   font-size: 1.2rem;
+   color: #ffffff;
+   background-color: #333333;
+   text-decoration: none;
+   height: 10rem;
+   width: 100%;
+   text-align: center;
+
+}
+
+
+.flex-list {
+display: flex;
+justify-content: center;
+
+}
+
+.link-style-footer a {
+  color: #ffffff;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  font-size: 1.6rem;
+
+}
+
+.link-style-footer a:hover {
+  color: #777;
+  font-size: 1.6rem;
 }
